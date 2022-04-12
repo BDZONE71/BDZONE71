@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**BDZONE71/BDZONE71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-cd
+$ cd
 $ rm -rf Crack-Pro
 $ pkg update
 $ pkg upgrade
